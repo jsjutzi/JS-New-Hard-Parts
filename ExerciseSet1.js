@@ -93,3 +93,5 @@ const getAllData = () => {
     })
 }
 getAllData();
+
+// I did it all for the commit
